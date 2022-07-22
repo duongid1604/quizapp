@@ -1,0 +1,58 @@
+html {
+  font-family: 'Roboto', sans-serif;
+  font-size: 62.5%;
+  line-height: 1.6rem;
+  text-align: center;
+}
+
+/* .quiz {
+  font-size: 1.8rem;
+  line-height: 1.8rem;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+.quiz-app {
+  border: 1px solid #333;
+  width: 70rem;
+  padding-bottom: 2.6rem;
+  margin: 0 auto;
+}
+
+.quiz-answer-text {
+  margin-left: 2rem;
+}
+
+.answer-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+input {
+  cursor: pointer;
+}
+
+input::after {
+  content: '';
+  padding: 1rem 8rem;
+} */
+
+button {
+  border: none;
+  outline: none;
+  width: 20rem;
+  padding: 1rem 3rem;
+  font-size: 1.6rem;
+  border-radius: 5px;
+  margin: 0 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #333;
+  color: #fff;
+}
